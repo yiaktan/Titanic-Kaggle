@@ -1,8 +1,10 @@
 *.csv
+.Python
+.ipynb_checkpoints
 *.html
+*.xls
 Titanic_blog.ipynb
 Titanic Try 1.ipynb
-titanic3.xls
 virtual.py
 bin
 include
