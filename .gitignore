@@ -1,5 +1,5 @@
-.csv
-.html
+*.csv
+*.html
 Titanic_blog.ipynb
 Titanic Try 1.ipynb
 titanic3.xls
