@@ -1,11 +1,11 @@
-*.csv
-.Python
-.ipynb_checkpoints
-*.html
-*.xls
+**.csv
+**.Python
+**.ipynb_checkpoints
+**.html
+**.xls
 Titanic_blog.ipynb
 Titanic Try 1.ipynb
-virtual.py
+**virtual.py
 bin
 include
 lib
